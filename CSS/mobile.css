@@ -1,0 +1,18 @@
+#navbar{
+flex-direction: column;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+padding-right: 0.050rem;
+padding-left: 0.050rem;
+overflow: hidden;
+height: 80px;
+}
+#countries .items{
+    flex-direction: column;
+}
+#countries .items .item{
+    width: 100%;
+}
+.vaccines .vaccine{
+    flex-direction: column;
+}
